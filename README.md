@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: - French, not German! French, but never lived in France!
+- ⚡ Fun fact: - French, not German! 
 
 <!---
 Ines-Lotte/Ines-Lotte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
